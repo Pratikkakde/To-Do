@@ -74,7 +74,7 @@ Thank you for taking the time to explore the To-Do Manager Project. For any feed
 ## Contact 📬
 
 *Connect with me on social media:*
-- LinkedIn:  [`www.linkedin.com/in/khushal-ganani`](www.linkedin.com/in/khushal-ganani)
+- LinkedIn:  [`www.linkedin.com/in/khushal-ganani`](https://www.linkedin.com/in/khushal-ganani/)
 - Email:     [`khushal.ganani@gmail.com`](mailto:khushal.ganani@gmail.com)
 - Trailhead: [`Trailhead Profile`](https://www.salesforce.com/trailblazer/khushalg)
   
