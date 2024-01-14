@@ -69,13 +69,13 @@ https://github.com/khushal-ganani/todo-list/assets/152521234/58141e72-5966-421d-
 
 The To-Do Manager Project is a testament to effective task management with a blend of functionality and aesthetics. Explore the components, experience the seamless interactions, and embrace the organized world of to-do lists.
 
-Thank you for taking the time to explore the To-Do Manager Project. For any feedbacks or discussions, please feel free to reach out.
+Thank you for taking the time to explore the To-Do Manager Project. For any feedback or discussions, please feel free to reach out.
 
 ## Contact 📬
 
 *Connect with me on social media:*
-- LinkedIn:  [`www.linkedin.com/in/your-linkedin`](www.linkedin.com/in/khushal-ganani)
-- Email:     [`khushal.ganani@gmail.com`](mailto:khushal.ganani@example.com)
+- LinkedIn:  [`www.linkedin.com/in/khushal-ganani`](www.linkedin.com/in/khushal-ganani)
+- Email:     [`khushal.ganani@gmail.com`](mailto:khushal.ganani@gmail.com)
 - Trailhead: [`Trailhead Profile`](https://www.salesforce.com/trailblazer/khushalg)
   
 ## Project Videos
